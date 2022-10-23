@@ -1,3 +1,8 @@
+---
+layout: single
+title: "3주차 Python 기본"
+---
+
 ```python
 strVal = 'data science'               # 문자열 변수
 nVal = 12345                          # 정수형 변수
