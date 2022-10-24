@@ -1,5 +1,4 @@
 ```python
-# 내장함수 예 : input
 strText = input("아무 문장이나 입력하세요 : ")
 print(strText)
 ```
