@@ -1,3 +1,8 @@
+---
+layout: single
+title: "4주차 Numpy와 Pands 기본"
+---
+
 ```python
 strText = input("아무 문장이나 입력하세요 : ")
 print(strText)
