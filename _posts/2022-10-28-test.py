@@ -28,7 +28,7 @@ plt.rc('axes', unicode_minus = False)
 # x측
 x = ['1월', '2월', '3월', '4월', '5월']
 y = [7, 10, 17, 20, 23]
-
+ 
 # 그래프
 plt.plot(x,y)
 plt.show()
